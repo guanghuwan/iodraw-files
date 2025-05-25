@@ -73,8 +73,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fYT8pdWSVcNRMBhtp6zi-48" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fYT8pdWSVcNRMBhtp6zi-47">
-          <mxGeometry x="-0.0883" y="1" relative="1" as="geometry">
+        <mxCell id="fYT8pdWSVcNRMBhtp6zi-49" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fYT8pdWSVcNRMBhtp6zi-47">
+          <mxGeometry x="-0.1137" y="-4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
