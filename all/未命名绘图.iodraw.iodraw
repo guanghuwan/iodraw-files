@@ -50,6 +50,9 @@
         <mxCell id="fYT8pdWSVcNRMBhtp6zi-33" value="重投影计算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="230" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="fYT8pdWSVcNRMBhtp6zi-35" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="315" y="290" width="110" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
