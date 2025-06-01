@@ -10,11 +10,17 @@
         <mxCell id="IW9Fhzj3ogrh26TFfr75-0" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-143" y="73" width="84" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="IW9Fhzj3ogrh26TFfr75-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IW9Fhzj3ogrh26TFfr75-1" target="IW9Fhzj3ogrh26TFfr75-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IW9Fhzj3ogrh26TFfr75-1" value="加载输入图像" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-145" y="151" width="88" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="IW9Fhzj3ogrh26TFfr75-3" value="加载输入图像" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="IW9Fhzj3ogrh26TFfr75-3" value="二值化处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-145" y="208" width="88" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="IW9Fhzj3ogrh26TFfr75-5" value="二值化处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-145" y="274" width="88" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
