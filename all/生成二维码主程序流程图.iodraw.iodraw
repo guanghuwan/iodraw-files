@@ -43,8 +43,8 @@
             <Array as="points">
               <mxPoint x="402" y="330" />
               <mxPoint x="470" y="330" />
-              <mxPoint x="470" y="60" />
-              <mxPoint x="695" y="60" />
+              <mxPoint x="470" y="40" />
+              <mxPoint x="695" y="40" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -61,7 +61,7 @@
           <mxGeometry x="535" y="210" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MOvwX1kRuwrUqw9qAh30-14" value="生成画布" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="650" y="80" width="90" height="40" as="geometry" />
+          <mxGeometry x="630" y="80" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
