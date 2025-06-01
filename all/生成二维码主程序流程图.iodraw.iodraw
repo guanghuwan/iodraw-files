@@ -35,7 +35,7 @@
           <mxGeometry x="347" y="260" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MOvwX1kRuwrUqw9qAh30-9" value="检测三通性" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="516" y="355" width="110" height="50" as="geometry" />
+          <mxGeometry x="510" y="267" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MOvwX1kRuwrUqw9qAh30-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="MOvwX1kRuwrUqw9qAh30-14" target="MOvwX1kRuwrUqw9qAh30-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -52,11 +52,14 @@
         <mxCell id="4NkrXdWiHjIr3cTc4Fjw-1" value="构建齐次变换矩阵" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="132" width="90" height="36" as="geometry" />
         </mxCell>
+        <mxCell id="4NkrXdWiHjIr3cTc4Fjw-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4NkrXdWiHjIr3cTc4Fjw-3" target="4NkrXdWiHjIr3cTc4Fjw-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4NkrXdWiHjIr3cTc4Fjw-3" value="全局坐标变换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="512.5" y="186" width="105" height="29" as="geometry" />
         </mxCell>
         <mxCell id="4NkrXdWiHjIr3cTc4Fjw-5" value="重投影计算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="512.5" y="226" width="105" height="29" as="geometry" />
+          <mxGeometry x="512.5" y="231" width="105" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
