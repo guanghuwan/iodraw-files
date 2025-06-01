@@ -26,7 +26,10 @@
           <mxGeometry x="-158.5" y="266" width="115" height="38" as="geometry" />
         </mxCell>
         <mxCell id="IW9Fhzj3ogrh26TFfr75-7" value="高斯核卷积" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="4" y="79" width="88" height="38" as="geometry" />
+          <mxGeometry y="94" width="88" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="IW9Fhzj3ogrh26TFfr75-8" value="高斯核卷积" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="143" width="88" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
