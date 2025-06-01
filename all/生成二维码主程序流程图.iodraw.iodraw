@@ -60,11 +60,14 @@
         <mxCell id="MOvwX1kRuwrUqw9qAh30-11" value="保存" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="535" y="210" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MOvwX1kRuwrUqw9qAh30-14" value="生成画布" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="MOvwX1kRuwrUqw9qAh30-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="MOvwX1kRuwrUqw9qAh30-14" target="MOvwX1kRuwrUqw9qAh30-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MOvwX1kRuwrUqw9qAh30-14" value="生成尺寸对应表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="630" y="80" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MOvwX1kRuwrUqw9qAh30-16" value="保存" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="545" y="220" width="60" height="60" as="geometry" />
+        <mxCell id="MOvwX1kRuwrUqw9qAh30-16" value="结果" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="645" y="150" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
