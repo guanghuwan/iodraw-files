@@ -14,12 +14,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MOvwX1kRuwrUqw9qAh30-1" value="输入参数corners,ids,marker_size" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="320" y="140" width="142" height="40" as="geometry" />
+          <mxGeometry x="331" y="140" width="142" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MOvwX1kRuwrUqw9qAh30-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="MOvwX1kRuwrUqw9qAh30-3" target="MOvwX1kRuwrUqw9qAh30-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MOvwX1kRuwrUqw9qAh30-3" value="加载ArUco字典" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="MOvwX1kRuwrUqw9qAh30-3" value="位置估计阶段" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="342" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MOvwX1kRuwrUqw9qAh30-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="MOvwX1kRuwrUqw9qAh30-5" target="MOvwX1kRuwrUqw9qAh30-9" edge="1">
@@ -35,16 +35,6 @@
               <mxPoint x="489" y="330" />
               <mxPoint x="489" y="60" />
               <mxPoint x="565" y="60" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MOvwX1kRuwrUqw9qAh30-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="MOvwX1kRuwrUqw9qAh30-6" target="MOvwX1kRuwrUqw9qAh30-14" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="402" y="330" />
-              <mxPoint x="470" y="330" />
-              <mxPoint x="470" y="40" />
-              <mxPoint x="675" y="40" />
             </Array>
           </mxGeometry>
         </mxCell>
